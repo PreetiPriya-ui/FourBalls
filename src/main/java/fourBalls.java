@@ -4,7 +4,7 @@ public class fourBalls extends PApplet {
 
     public static final int WIDTH = 640;
     public static final int HEIGHT = 480;
-    public static final int Diameter = 10;
+    public static final int Diameter = 12;
     int posOfBallOne = 0;
     int posOfBallTwo = 0;
     int posOfBallThree = 0;
